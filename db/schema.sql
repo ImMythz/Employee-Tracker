@@ -1,14 +1,14 @@
 DROP DATABASE IF EXISTS employees;
-
+​
 CREATE DATABASE employees;
-
+​
 USE employees;
-
+​
 CREATE TABLE department (
   id INT AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(30) NOT NULL
 );
-
+​
 CREATE TABLE role (
   id INT AUTO_INCREMENT PRIMARY KEY,
   title VARCHAR(30) NOT NULL,
@@ -16,7 +16,7 @@ CREATE TABLE role (
   department_id INT NOT NULL,
   CONSTRAINT deparment_id_fk FOREIGN KEY (department_id) REFERENCES department(id) ON DELETE CASCADE
 );
-
+​
 CREATE TABLE employee (
   id INT AUTO_INCREMENT PRIMARY KEY,
   first_name VARCHAR(30) NOT NULL,
