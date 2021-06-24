@@ -31,7 +31,6 @@ This application allows the user to manage an employee database in order to keep
 
 Click the image below to play a video demo of this application:
 
-[![Video Demo]placeholder]
 
 ## License
 MIT License
