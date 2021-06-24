@@ -30,6 +30,7 @@ This application allows the user to manage an employee database in order to keep
 <img src='images\ET-screenshot-3.jpg' alt='Employee Tracker Sceenhot Three'>
 
 Click the image below to play a video demo of this application:
+
 https://user-images.githubusercontent.com/72038731/123336845-08451100-d50c-11eb-93a6-dad5d1de56ad.mp4
 
 ## License
