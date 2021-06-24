@@ -24,7 +24,8 @@ This application allows the user to create an employee tracker that will allow a
   <img src='images\ET-screenshot-1.jpg' alt='Employee Tracker Sceenhot One'>
 
 ## Usage
-This application allows the user to manage an employee database in order to keep track, add and remove employees and departments from the database. Here are a few screenshots showcasing the application
+This application allows the user to manage an employee database in order to keep track, add and remove employees and departments from the database. 
+Here are a few screenshots showcasing the application
 <img src='images\ET-screenshot-1.jpg' alt='Employee Tracker Sceenhot One'>
 <img src='images\ET-screenshot-2.jpg' alt='Employee Tracker Sceenhot Two'>
 <img src='images\ET-screenshot-3.jpg' alt='Employee Tracker Sceenhot Three'>
