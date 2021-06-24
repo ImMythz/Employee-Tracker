@@ -1,5 +1,13 @@
 const inquirer = require('inquirer');
-const connection = require('./connection.js');
+const mysql = require('mysql');
+
+const connection = mysql.createConnection({
+    host: 'localhost',
+    user: 'root',
+    password: 'password',
+    database: 'employees',
+});
+
 
 // Prompt options in CLI
 const initialPrompt = () => {
